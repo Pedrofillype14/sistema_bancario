@@ -4,11 +4,11 @@ Hi 👋 My name is Pedro Fillype de Souza Europeu
 Electrical engineer and Data engineer
 -------------------------------------
 
-Electrical engineer, with some experience in the area of ​​data and web development.
+Banking system for DIO.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [pedrofillype@gmail.com](mailto:pedrofillype@gmail.com)
-* 🧠  I'm learning React and NodeJs
+* 🧠  I utilized the language of programmation Python.
 
 ### Skills
 
